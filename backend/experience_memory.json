@@ -1,0 +1,130 @@
+[
+    {
+        "id": 1,
+        "diagnosis": "Cardiac",
+        "probability": 40,
+        "score": 40,
+        "recommendation": "Advise patient to wait {remaining} months or check portability credit.",
+        "clinical_urgency": 45
+    },
+    {
+        "id": 2,
+        "diagnosis": "Cardiac",
+        "probability": 40,
+        "score": 40,
+        "recommendation": "Advise patient to wait or check portability credit.",
+        "clinical_urgency": 45
+    },
+    {
+        "id": 3,
+        "diagnosis": "Diabetes",
+        "probability": 10,
+        "score": 10,
+        "recommendation": "Wait until 36-month period is completed (IRDAI 2024).",
+        "clinical_urgency": 90
+    },
+    {
+        "id": 4,
+        "diagnosis": "Diabetes",
+        "probability": 10,
+        "score": 10,
+        "recommendation": "Wait until 36-month period is completed (IRDAI 2024).",
+        "clinical_urgency": 90
+    },
+    {
+        "id": 5,
+        "diagnosis": "Diabetes",
+        "probability": 10,
+        "score": 10,
+        "recommendation": "Wait until 36-month period is completed (IRDAI 2024).",
+        "clinical_urgency": 45
+    },
+    {
+        "id": 6,
+        "diagnosis": "Diabetes",
+        "probability": 10,
+        "score": 10,
+        "recommendation": "REJECT",
+        "clinical_urgency": 45
+    },
+    {
+        "id": 7,
+        "diagnosis": "Diabetes",
+        "probability": 10,
+        "score": 10,
+        "recommendation": "Wait until 36-month period is completed (IRDAI 2024).",
+        "clinical_urgency": 90
+    },
+    {
+        "id": 8,
+        "diagnosis": "Cardiac",
+        "probability": 40,
+        "score": 40,
+        "recommendation": "Advise patient to wait or check portability credit.",
+        "clinical_urgency": 45
+    },
+    {
+        "id": 9,
+        "diagnosis": "Diabetes",
+        "probability": 10,
+        "score": 10,
+        "recommendation": "Wait until 36-month period is completed (IRDAI 2024).",
+        "clinical_urgency": 90
+    },
+    {
+        "id": 10,
+        "diagnosis": "Diabetes",
+        "probability": 20,
+        "score": 20,
+        "recommendation": "Wait until 36-month period is completed (IRDAI 2024).",
+        "clinical_urgency": 45
+    },
+    {
+        "id": 11,
+        "diagnosis": "Undeclared",
+        "probability": 10,
+        "score": 10,
+        "recommendation": "REJECT",
+        "clinical_urgency": 45
+    },
+    {
+        "id": 12,
+        "diagnosis": "Cardiac",
+        "probability": 40,
+        "score": 40,
+        "recommendation": "Advise patient to wait or check portability credit.",
+        "clinical_urgency": 45
+    },
+    {
+        "id": 13,
+        "diagnosis": "Cardiac",
+        "probability": 40,
+        "score": 40,
+        "recommendation": "Advise patient to wait or check portability credit.",
+        "clinical_urgency": 45
+    },
+    {
+        "id": 14,
+        "diagnosis": "Cardiac",
+        "probability": 40,
+        "score": 40,
+        "recommendation": "Advise patient to wait or check portability credit.",
+        "clinical_urgency": 45
+    },
+    {
+        "id": 15,
+        "diagnosis": "Diabetes",
+        "probability": 10,
+        "score": 10,
+        "recommendation": "Wait until 36-month period is completed (IRDAI 2024).",
+        "clinical_urgency": 45
+    },
+    {
+        "id": 16,
+        "diagnosis": "Cardiac",
+        "probability": 30,
+        "score": 30,
+        "recommendation": "Advise patient to wait or check portability credit.",
+        "clinical_urgency": 90
+    }
+]
